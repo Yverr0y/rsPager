@@ -1,6 +1,6 @@
 <div align="center">
 
-# [rsPager](https://ratspeak.org/)
+# rsPager <br> ⚠️ DEPRECATED - use [ratspeak-handheld](https://github.com/ratspeak/ratspeak-handheld) ⚠️
 
 **Dual-mode Ratspeak firmware for the LilyGo T-Pager.**
 
